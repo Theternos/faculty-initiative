@@ -297,7 +297,7 @@ static inline CGFloat radiansToDegrees(CGFloat radians) {
     if (headers == [NSNull null]){
         headers = @{};
     }
-    AVPlayerItem* item;
+    AVPlayerItem* item;;
     if (useCache){
         [KTVHTTPCache downloadSetAdditionalHeaders:headers];
         NSURL *proxyURL = [KTVHTTPCache proxyURLWithOriginalURL:url];
