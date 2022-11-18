@@ -7,4 +7,4 @@ version:
   revision: cfc0082db7e4cb1ec9da9cbf29fb7ecc5788ca13
   channel: master
 
-project_type: package
+project_type: package.
