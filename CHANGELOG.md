@@ -6,7 +6,7 @@
 
 * Bug Fix
 * FullScreen Add
-
+n
 ## [0.0.3] - 2020-08-04
 
 * Bug Fix
